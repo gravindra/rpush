@@ -1,0 +1,12 @@
+dump.rdb
+.bundle
+pkg/*
+coverage/
+.rbx/
+spec/acceptance/fixtures
+.rbenv-version
+gcm_test/bin
+.DS_Store
+spec/tmp/
+.vagrant/
+tmp/
